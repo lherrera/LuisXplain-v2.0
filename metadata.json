@@ -1,0 +1,5 @@
+{
+  "name": "LuisXplain: AI Search Explainer",
+  "description": "An AI-powered search explainer that performs a Google search for a user's query and then analyzes the results to explain why each result is relevant, including insights into search intent.",
+  "requestFramePermissions": []
+}
